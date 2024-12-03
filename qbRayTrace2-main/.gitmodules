@@ -1,3 +1,0 @@
-[submodule "qbRayTrace/qbLinAlg"]
-	path = qbRayTrace/qbLinAlg
-	url = https://github.com/QuantitativeBytes/qbLinAlg.git
